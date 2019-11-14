@@ -9,7 +9,7 @@ class App extends React.Component {
   }
   render() {
     return (
-      <div className="ui container" style={{ marginTop: "20px" }}>
+      <div className="ui " style={{ marginTop: "20px" }}>
         <h1> App! </h1>
         <SearchBar onSubmit={this.onSearchSubmit} />
       </div>
