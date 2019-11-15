@@ -33,5 +33,13 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhag41/pics.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bhag41/pics/issues"
+  },
+  "homepage": "https://github.com/bhag41/pics#readme"
 }
